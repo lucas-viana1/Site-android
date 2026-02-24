@@ -94,10 +94,14 @@ article#fundobranco{
 }
 article#conteudoextra{
     background-color: #9ae49a;
-    margin: 0 auto 20px auto;
+    margin: 20px auto 20px auto;
     width:690px;
     padding: 10px;
     border-radius: 10px;
+}
+ul{
+    column-count: 2;
+    column-gap: 20px;
 }
 div{
     text-decoration: none;
